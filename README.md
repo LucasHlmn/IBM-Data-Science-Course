@@ -1,13 +1,18 @@
-# IBM-Data-Science-Course
-Projects done during the IBM Data Science course.
+# IBM - Data Science Professional Certificate
 
-Below are the completion credentials for the different modules of the course:
 
-1. Data Science Orientation: https://www.credly.com/badges/0db70e03-c912-4c98-8b79-a1eb9ffca3d2?source=linked_in_profile
-2. Tools for Data Science: https://www.credly.com/badges/6d2bbaa4-90ce-4eb3-a249-d9cce58cc7cf?source=linked_in_profile
-3. Python for Data Science and AI: https://www.credly.com/badges/5d99ea1e-4d7a-4131-af59-72d856bddb0b?source=linked_in_profile
-4. Python Project for Data Science: https://www.credly.com/badges/9119a339-6664-43b8-b024-371d8547d821?source=linked_in_profile
-5. Databases and SQL for Data Science: https://www.credly.com/badges/084e31d6-8463-49f7-978f-2140bdefbe26?source=linked_in_profile
-6. Data Science Methodology: https://www.credly.com/badges/b078e632-c0d8-4b5f-b9fa-f0fb94c556f0?source=linked_in_profile
-7. Data Visualization with Python: https://www.credly.com/badges/a8bc35a7-7c6f-4512-87c5-6b9f00a8076e?source=linked_in_profile
-8. Data Analysis with Python: https://www.credly.com/badges/c6f126e6-8a69-4066-904d-040cb3e44ccd?source=linked_in_profile
+### Skills learned:
+- Data Science methodology 
+- Work with Jupyter notebooks
+- Create Python apps 
+- Access relational databases using SQL & Python 
+- Use Python libraries to generate data visualizations 
+- Perform data analysis using Pandas 
+- Construct & evaluate Machine Learning (ML) models using Scikit-learn & SciPy
+- Apply data science & ML techniques to real location data sets
+
+Recommender Systems | Artificial Intelligence | Data Visualization | Data Analysis | Data Science | Machine Learning | ML | Python | SQL | Database | Jupyter | Notebook | AI | Watson | Studio | IBM Cloud | Db2 | Pandas | NumPy | Bokeh | Matplotlib | Folium | Seaborn | Scikit-learn | SciPy | RStudio | Zeppelin | Regression | Clustering | Classification | Location | Methodology | Foursquare
+
+[IBM - Data Science Professional Certificate website](https://www.ibm.com/training/badge/fb3af6d8-2402-4acb-b852-7a0c5034c976)
+
+[Credentials](https://www.credly.com/users/lucas-houlmann/badges)
