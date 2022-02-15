@@ -3,3 +3,4 @@
 *.jpg
 *.jpeg
 *.pdf
+.ipynb_checkpoints 
