@@ -1,7 +1,6 @@
 # IBM - Data Science Professional Certificate
 
-
-### Skills learned:
+This certificate cursus is designed to prepare for a career in data science with demonstrated ability to solve real-world problems. I was able to learned and developed the following skills:
 - Data Science methodology 
 - Work with Jupyter notebooks
 - Create Python apps 
@@ -15,4 +14,4 @@ Recommender Systems | Artificial Intelligence | Data Visualization | Data Analys
 
 [IBM - Data Science Professional Certificate website](https://www.ibm.com/training/badge/fb3af6d8-2402-4acb-b852-7a0c5034c976)
 
-[Credentials](https://www.credly.com/users/lucas-houlmann/badges)
+[Credentials](https://www.credly.com/badges/727eac05-24b5-4a83-9d6f-e5c5e17f8afc/public_url)
